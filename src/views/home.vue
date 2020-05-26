@@ -4,6 +4,7 @@
     <home-nav>
       <nav-block text="刮刮卡" to="/card"></nav-block>
       <nav-block text="幸运转盘" to="/wheel"></nav-block>
+      <nav-block text="时钟" to="/clock"></nav-block>
     </home-nav>
   </div>
 </template>

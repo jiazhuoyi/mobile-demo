@@ -35,6 +35,14 @@ export default new Router({
             title: '幸运大转盘'
           },
           component: () => import('@/views/wheel/index')
+        },
+        {
+          path: '/clock',
+          name: 'Clock',
+          meta: {
+            title: '时钟'
+          },
+          component: () => import('@/views/clock/index')
         }
       ]
     }

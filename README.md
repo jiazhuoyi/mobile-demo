@@ -19,4 +19,16 @@ npm run build --report
 ```
 vue移动端的一些demo
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+实现模块
+
+1.  刮刮卡
+
+   ```
+   1.自定义中奖背景图(代码需要调整)
+   2.自定义遮盖图层(该值为空时，默认#ccc的背景颜色)
+   3.实现圆形橡皮檫
+   4.解决canvas滑动过快时，出现不连贯的圆点
+   5.擦除到一定比例后，中奖背景图完全显示
+   ```
+
+   
